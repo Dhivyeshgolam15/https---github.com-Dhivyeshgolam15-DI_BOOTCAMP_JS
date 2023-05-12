@@ -36,4 +36,4 @@ gameInfo.forEach((player) => {
     winners.push(player.username);
   }
 });
-console.log(winners); // output: ["becky", "susy"]
+console.log(winners); // output: ["becKKy", "susy"]
